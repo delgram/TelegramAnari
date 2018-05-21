@@ -1,0 +1,27 @@
+ {
+ 	"type": 100,
+ 	"mediaType": 1,
+ 	"message": {
+ 		"media": {
+ 			"caption": "پسرن دیگه��������\\به جمع ما بپیوندید������\\@joojoolat",
+ 			"document": {
+ 				"attributes": [{"duration":34,"flags":0,"h":600,"voice":false,"w":480,"disableFree":false},{"duration":0,"flags":0,"h":0,"voice":false,"w":0,"disableFree":false}],
+ 				"mime_type": "video/mp4",
+ 				"id": 1242343337889890738,
+ 				"date": 1482655521,
+ 				"dc_id": 4,
+ 				"size": 851361
+ 			}
+ 		},
+ 		"message": "",
+ 		"to_id": {
+ 			"channel_id": 1096450514,
+ 			"chat_id": 0,
+ 			"user_id": 0
+ 		},
+ 		"date": 1482840769,
+ 		"from_id": -1096450514,
+ 		"id": 5,
+ 		"views": 25380
+ 	}
+ }
